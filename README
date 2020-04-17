@@ -1,0 +1,10 @@
+Скрипт использует geckodriver, необходим Mozilla Firefox.
+Для автоматизации тестирования, использован фреймворк - behave.
+
+Установка behave:
+
+pip install behave
+
+Запуск теста:
+
+behave -i test.feature
